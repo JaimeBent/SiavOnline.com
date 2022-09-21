@@ -3,7 +3,7 @@
     include '../setting/setting.php';
     include '../setting/Connection.php';
     include '../CRUD/CRUD.php';
-
+    /* estas son  las rutas de accesos */
     /*=======================================================================
     =DECLARAR VARIABLES E INSTANCIAR LA CLASE CRUD PARA LLAMAR LOS PRODUCTOS
     =========================================================================*/
